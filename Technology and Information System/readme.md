@@ -16,5 +16,5 @@ Topics:<br>Chapter 1: Emerging Technology in ICT<br>Chapter 2: Hardware<br>Chapt
 
 ###
 
-[Industry Talk Video](https://drive.google.com/file/d/1TTqPH8mtitCRys8RWzQRKy2FxwX0BD2y/view?usp=sharing)
+[Industry Talk Video](https://drive.google.com/file/d/1TTqPH8mtitCRys8RWzQRKy2FxwX0BD2y/view?usp=sharing) <br>
 [Design Thinking Video](https://drive.google.com/file/d/1yLbQZujZdTWRA7zuK8DRgxVh0gfSiVjq/view?usp=sharing)
