@@ -8,7 +8,7 @@ Topics:<br>Chapter 1: Emerging Technology in ICT<br>Chapter 2: Hardware<br>Chapt
 
 ###
 
-<h3 align="left">Reflection</h3>
+<h3 align="left">💡 Reflection</h3>
 
 ###
 
