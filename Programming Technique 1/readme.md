@@ -1,4 +1,4 @@
-<h1 align="left">Programming Technique 1</h1>
+<h1 align="left">🛜 Programming Technique 1</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Reflection</h3>
+<h3 align="left">💡 Reflection</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Improvements</h3>
+<h3 align="left">😉 Improvements</h3>
 
 ###
 
