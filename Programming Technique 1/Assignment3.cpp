@@ -1,5 +1,5 @@
-// Section 08						Date: 12/1/2025
-// Name: SIVARAJ A/L SIVAKUMAR 		Matric No: A24CS0194
+// Section 08					Date: 12/1/2025
+// Name: SIVARAJ A/L SIVAKUMAR 			Matric No: A24CS0194
 // Name: TAN JIAN XIN 				Matric No: A24CS0303
 
 #include <iostream>
